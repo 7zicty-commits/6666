@@ -1,0 +1,32 @@
+/**
+ * @name khai
+ * @author 666
+ * @version 6.6.6
+ * @description 666
+ */
+
+ @import url('https://raw.githack.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins/master/Themes/GGO_Kirito/core.css');
+
+:root{
+     --background: url('https://media.discordapp.net/attachments/1355203792294908065/1492235585899991260/cc509860a9524ffd8f68934cc7d2f24f.png?ex=6a2a5af0&is=6a290970&hm=606fabcf29d22eb65475d98586e0be601ebf76e3db506dfaee3df1207f6cf2f5&=&format=webp&quality=lossless');
+     --activetext-colour: white;
+ 
+     --primary1-colour: red;
+     --primary2-colour: rgba(255,0,0,0.5);
+     --primary3-colour: rgba(100,0,0,0.6);
+     --primary4-colour: rgba(100,0,0,0.4);
+ 
+     --secondary1-colour: rgba(50,50,50,0.3);
+     --secondary2-colour: rgba(100,100,100,0.5);
+     --secondary3-colour: rgba(0,0,0,0.6);
+     --secondary4-colour: rgba(0,0,0,0.3);
+
+}
+  
+/*
+Theme Owned and Made by VaporousCreeper#9514
+  
+Background Img: https://media.discordapp.net/attachments/1355203792294908065/1492235585899991260/cc509860a9524ffd8f68934cc7d2f24f.png?ex=6a2a5af0&is=6a290970&hm=606fabcf29d22eb65475d98586e0be601ebf76e3db506dfaee3df1207f6cf2f5&=&format=webp&quality=lossless
+
+The items above are not owned by me, They go to there respected owners 
+*/
